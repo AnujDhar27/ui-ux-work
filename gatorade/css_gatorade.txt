@@ -1,0 +1,762 @@
+position: absolute;
+width: 524.81px;
+height: 933px;
+left: -30px;
+top: -6px;
+
+background: url(image.png);
+
+
+/* Ellipse 1 */
+
+
+position: absolute;
+width: 365px;
+height: 186px;
+left: -143px;
+top: 512px;
+
+background: #C3DB6E;
+
+
+/* gatorade-blue-bolt-flavour-sports-drink-500x500 1 */
+
+
+position: absolute;
+width: 326px;
+height: 326px;
+left: -49px;
+top: 283px;
+
+background: url(.png);
+
+
+/* 71QKr98XL+L 1 */
+
+
+position: absolute;
+width: 383px;
+height: 486px;
+left: -169px;
+top: 184px;
+
+background: url(.png);
+
+
+/* Rectangle 1 */
+
+
+position: absolute;
+width: 169px;
+height: 149px;
+left: 285px;
+top: 460px;
+
+background: #F0E660;
+border-radius: 40px;
+
+
+/* Rectangle 2 */
+
+
+position: absolute;
+width: 177px;
+height: 172px;
+left: 285px;
+top: 50px;
+
+background: #F0E660;
+border-radius: 40px;
+
+
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 199px;
+height: 172px;
+left: 285px;
+top: 259px;
+
+background: #F0E660;
+border-radius: 40px;
+
+
+/* Sodium, Chlorine Potassium Electrolytes Replenish Helps replenish the electrolytes lost in sweat */
+
+
+position: absolute;
+width: 128px;
+height: 106px;
+left: 291px;
+top: 485px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* 6% CHO Carbohydrates Refuel Helps fluid absorption and provide energy to the working muscles */
+
+
+position: absolute;
+width: 94px;
+height: 147px;
+left: 313px;
+top: 58px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #000000;
+
+
+
+/* H20 Water Rehydrate Helps restore lost body fluids */
+
+
+position: absolute;
+width: 117px;
+height: 124px;
+left: 303px;
+top: 291px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 4 */
+
+
+position: absolute;
+width: 258px;
+height: 74px;
+left: 97px;
+top: 815px;
+
+background: #8FD77E;
+border-radius: 40px;
+
+
+/* ORDER NOW */
+
+
+position: absolute;
+width: 175px;
+height: 41px;
+left: 139px;
+top: 837px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 5 */
+
+
+position: absolute;
+width: 259px;
+height: 120px;
+left: 277px;
+top: 634px;
+
+background: #F0E660;
+border-radius: 40px;
+
+
+/* Flavour Taste Helps stimulate drinking */
+
+
+position: absolute;
+width: 169px;
+height: 113px;
+left: 271px;
+top: 658px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* download 2 */
+
+
+position: absolute;
+width: 104px;
+height: 88px;
+left: 22px;
+top: 31px;
+
+background: url(-gatorade.png);
+
+
+/* Rectangle 6 */
+
+
+position: absolute;
+width: 248px;
+height: 78px;
+left: -34px;
+top: 714px;
+
+background: #F0E660;
+border-radius: 30px;
+
+
+/* GATORADE ADDED LEMON FLAVOUR */
+
+
+position: absolute;
+width: 199px;
+height: 36px;
+left: 0px;
+top: 737px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* image 3 */
+
+
+position: absolute;
+width: 1000px;
+height: 2000px;
+left: -286px;
+top: -534px;
+
+background: url(image.png);
+
+
+/* Ellipse 1 */
+
+
+position: absolute;
+width: 365px;
+height: 186px;
+left: -143px;
+top: 512px;
+
+background: rgba(6, 93, 162, 0.8);
+
+
+/* download 2 */
+
+
+position: absolute;
+width: 104px;
+height: 88px;
+left: 22px;
+top: 31px;
+
+background: url(-gatorade.png);
+
+
+/* image 2 */
+
+
+position: absolute;
+width: 326px;
+height: 326px;
+left: -49px;
+top: 283px;
+
+background: url(.png);
+
+
+/* Rectangle 1 */
+
+
+position: absolute;
+width: 169px;
+height: 149px;
+left: 285px;
+top: 460px;
+
+background: #7BA5EF;
+border-radius: 40px;
+
+
+/* Rectangle 2 */
+
+
+position: absolute;
+width: 177px;
+height: 172px;
+left: 285px;
+top: 50px;
+
+background: #7BA5EF;
+border-radius: 40px;
+
+
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 199px;
+height: 172px;
+left: 285px;
+top: 259px;
+
+background: #7BA5EF;
+border-radius: 40px;
+
+
+/* Sodium, Chlorine Potassium Electrolytes Replenish Helps replenish the electrolytes lost in sweat */
+
+
+position: absolute;
+width: 128px;
+height: 106px;
+left: 291px;
+top: 485px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* 6% CHO Carbohydrates Refuel Helps fluid absorption and provide energy to the working muscles */
+
+
+position: absolute;
+width: 94px;
+height: 147px;
+left: 313px;
+top: 58px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #000000;
+
+
+
+/* H20 Water Rehydrate Helps restore lost body fluids */
+
+
+position: absolute;
+width: 117px;
+height: 124px;
+left: 303px;
+top: 291px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 4 */
+
+
+position: absolute;
+width: 258px;
+height: 74px;
+left: 97px;
+top: 815px;
+
+background: #50C0E3;
+border-radius: 40px;
+
+
+/* ORDER NOW */
+
+
+position: absolute;
+width: 175px;
+height: 41px;
+left: 139px;
+top: 837px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 5 */
+
+
+position: absolute;
+width: 259px;
+height: 120px;
+left: 277px;
+top: 634px;
+
+background: #7BA5EF;
+border-radius: 40px;
+
+
+/* Flavour Taste Helps stimulate drinking */
+
+
+position: absolute;
+width: 169px;
+height: 113px;
+left: 271px;
+top: 658px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 6 */
+
+
+position: absolute;
+width: 248px;
+height: 78px;
+left: -34px;
+top: 714px;
+
+background: #7BA5EF;
+border-radius: 30px;
+
+
+/* GATORADE BLUE BOULT FLAVOUR */
+
+
+position: absolute;
+width: 199px;
+height: 36px;
+left: 0px;
+top: 737px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* image 4 */
+
+
+position: absolute;
+width: 640px;
+height: 1136px;
+left: -106px;
+top: -102px;
+
+background: url(image.png);
+
+
+/* Ellipse 1 */
+
+
+position: absolute;
+width: 365px;
+height: 186px;
+left: -143px;
+top: 512px;
+
+background: rgba(248, 104, 5, 0.8);
+
+
+/* download 2 */
+
+
+position: absolute;
+width: 104px;
+height: 88px;
+left: 22px;
+top: 31px;
+
+background: url(-gatorade.png);
+
+
+/* 71QKr98XL+L 2 */
+
+
+position: absolute;
+width: 256.91px;
+height: 326px;
+left: -14px;
+top: 291px;
+
+background: url(.png);
+
+
+/* image 2 */
+
+
+position: absolute;
+width: 455px;
+height: 446px;
+left: -197px;
+top: 212px;
+
+background: url(.png);
+
+
+/* Rectangle 1 */
+
+
+position: absolute;
+width: 169px;
+height: 149px;
+left: 285px;
+top: 460px;
+
+background: #FCAA23;
+border-radius: 40px;
+
+
+/* Rectangle 2 */
+
+
+position: absolute;
+width: 177px;
+height: 172px;
+left: 285px;
+top: 50px;
+
+background: #FCAA23;
+border-radius: 40px;
+
+
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 199px;
+height: 172px;
+left: 285px;
+top: 259px;
+
+background: #FCAA23;
+border-radius: 40px;
+
+
+/* Sodium, Chlorine Potassium Electrolytes Replenish Helps replenish the electrolytes lost in sweat */
+
+
+position: absolute;
+width: 128px;
+height: 106px;
+left: 291px;
+top: 485px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* 6% CHO Carbohydrates Refuel Helps fluid absorption and provide energy to the working muscles */
+
+
+position: absolute;
+width: 94px;
+height: 147px;
+left: 313px;
+top: 58px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #000000;
+
+
+
+/* H20 Water Rehydrate Helps restore lost body fluids */
+
+
+position: absolute;
+width: 117px;
+height: 124px;
+left: 303px;
+top: 291px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 4 */
+
+
+position: absolute;
+width: 258px;
+height: 74px;
+left: 97px;
+top: 815px;
+
+background: #EF8642;
+border-radius: 40px;
+
+
+/* ORDER NOW */
+
+
+position: absolute;
+width: 175px;
+height: 41px;
+left: 139px;
+top: 837px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 5 */
+
+
+position: absolute;
+width: 259px;
+height: 120px;
+left: 277px;
+top: 634px;
+
+background: #FCAA23;
+border-radius: 40px;
+
+
+/* Flavour Taste Helps stimulate drinking */
+
+
+position: absolute;
+width: 169px;
+height: 113px;
+left: 271px;
+top: 658px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 6 */
+
+
+position: absolute;
+width: 256px;
+height: 81px;
+left: -34px;
+top: 714px;
+
+background: #FCAA23;
+border-radius: 30px;
+
+
+/* GATORADE ADDED ORANGE FLAVOUR */
+
+
+position: absolute;
+width: 199px;
+height: 36px;
+left: 0px;
+top: 737px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+
+color: #000000;
