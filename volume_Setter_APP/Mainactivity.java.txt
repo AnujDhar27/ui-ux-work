@@ -1,0 +1,40 @@
+package com.example.volumesetter;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+import android.content.Context;
+import android.media.AudioManager;
+import android.os.Bundle;
+import android.view.View;
+import android.widget.SeekBar;
+import android.widget.Toast;
+
+public class MainActivity extends AppCompatActivity {
+    private SeekBar seekbar;
+    //private SeekBar volumeslider;
+    private AudioManager audioManager;
+
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+        seekbar=findViewById(R.id.seekBar);
+        //volumeslider = findViewById(R.id.seekBar2);
+        audioManager=(AudioManager) getApplicationContext().getSystemService(Context.AUDIO_SERVICE);
+        seekbar.setMax(audioManager.getStreamMaxVolume(AudioManager.STREAM_MUSIC));
+        seekbar.setProgress(audioManager.getStreamVolume(AudioManager.STREAM_MUSIC));
+        //int maxvol= audioManager.getStreamMaxVolume(AudioManager.STREAM_MUSIC);
+
+    }
+    public void UpButton(View view){
+        audioManager.adjustVolume(AudioManager.ADJUST_RAISE, AudioManager.FLAG_PLAY_SOUND);
+        seekbar.setProgress(audioManager.getStreamVolume(AudioManager.STREAM_MUSIC));
+        Toast.makeText(this,"Volume Increased", Toast.LENGTH_SHORT).show();
+    }
+    public void DownButton(View view){
+        audioManager.adjustVolume(AudioManager.ADJUST_LOWER, AudioManager.FLAG_PLAY_SOUND);
+        seekbar.setProgress(audioManager.getStreamVolume(AudioManager.STREAM_MUSIC));
+        Toast.makeText(this, "Volume Decreased", Toast.LENGTH_SHORT).show();
+    }
+}
