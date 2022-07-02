@@ -1,0 +1,2448 @@
+position: absolute;
+width: 252px;
+height: 152px;
+left: 0px;
+top: -17px;
+
+background: #000000;
+border-radius: 0px 0px 50px 0px;
+
+
+/* LUXURY CAR RENTALS */
+
+
+position: absolute;
+width: 211px;
+height: 40px;
+left: 32px;
+top: 58px;
+
+font-family: 'Langar';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 28px;
+
+color: #C1A13F;
+
+
+
+/* Rectangle 2 */
+
+
+position: absolute;
+width: 304px;
+height: 179px;
+left: 124px;
+top: 651px;
+
+background: #000000;
+border-radius: 40px 0px 0px 40px;
+
+
+/* GET YOUR JOURNEY STARTED WITH LAMBORGHINI URUS */
+
+
+position: absolute;
+width: 178px;
+height: 95px;
+left: 163px;
+top: 693px;
+
+font-family: 'Langar';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 28px;
+
+color: #C1A13F;
+
+
+
+/* Ellipse 1 */
+
+
+position: absolute;
+width: 37px;
+height: 37px;
+left: 359px;
+top: 773px;
+
+background: #CEA928;
+
+
+/* icon */
+
+
+position: absolute;
+left: 85.98%;
+right: 9.72%;
+top: 84.45%;
+bottom: 13.67%;
+
+background: #000000;
+
+
+/* lamborghini-logo-wallpapers-pictures-images-1 1 */
+
+
+position: absolute;
+width: 201px;
+height: 116px;
+left: 275px;
+top: 19px;
+
+background: url(lamborghini-logo-wallpapers-pictures-images-1.png);
+
+
+/* Ellipse 2 */
+
+
+position: absolute;
+width: 412px;
+height: 153px;
+left: 8px;
+top: 357px;
+
+background: rgba(0, 0, 0, 0.52);
+
+
+/* Urus_cc-giallo_auge-Taigete_23_Shiny_Black-black_caliper-sceneplate_env 1 */
+
+
+position: absolute;
+width: 455px;
+height: 263px;
+left: -41px;
+top: 247px;
+
+background: url(Urus_cc-giallo_auge-Taigete_23_Shiny_Black-black_caliper-sceneplate_env.png);
+
+
+/* 24 / symbols / facebook */
+
+
+position: absolute;
+left: 7.71%;
+right: 86.68%;
+top: 72.46%;
+bottom: 24.95%;
+
+
+
+/* 24 / symbols / instagram */
+
+
+position: absolute;
+left: 8.18%;
+right: 86.21%;
+top: 77.32%;
+bottom: 20.09%;
+
+
+
+/* 24 / symbols / twitter */
+
+
+position: absolute;
+left: 7.71%;
+right: 86.68%;
+top: 82.18%;
+bottom: 15.23%;
+
+
+
+/* 24 / maps / 360 */
+
+
+position: absolute;
+left: 7.71%;
+right: 86.68%;
+top: 87.04%;
+bottom: 10.37%;
+
+
+
+/* lamborghini-urus-yellow-uhd-4k-wallpaper 1 */
+
+
+position: absolute;
+width: 428px;
+height: 1239px;
+left: 0px;
+top: -301px;
+
+background: url(lamborghini-urus-yellow-uhd-4k-wallpaper.jpg);
+
+
+/* 2018-lamborghini-urus-luxury-suv-4k-wallpaper-preview 1 */
+
+
+position: absolute;
+width: 490px;
+height: 265px;
+left: -115px;
+top: 173px;
+
+background: url(2018-lamborghini-urus-luxury-suv-4k-wallpaper-preview.jpg);
+border-radius: 30px;
+
+
+/* Rectangle 15 */
+
+
+position: absolute;
+width: 100px;
+height: 70px;
+left: 328px;
+top: 0px;
+
+background: #000000;
+border-radius: 0px 0px 0px 30px;
+
+
+/* Rectangle 18 */
+
+
+position: absolute;
+width: 100px;
+height: 70px;
+left: 0px;
+top: 0px;
+
+background: #000000;
+border-radius: 0px 0px 30px 0px;
+
+
+/* icon */
+
+
+position: absolute;
+left: 8.88%;
+right: 85.51%;
+top: 2.38%;
+bottom: 95.03%;
+
+background: #FFFFFF;
+
+
+/* icon */
+
+
+position: absolute;
+left: 84.35%;
+right: 7.71%;
+top: 2.7%;
+bottom: 95.03%;
+
+background: #FFFFFF;
+
+
+/* Rectangle 2 */
+
+
+position: absolute;
+width: 441px;
+height: 472px;
+left: -9px;
+top: 457px;
+
+background: rgba(0, 0, 0, 0.7);
+border-radius: 50px 50px 0px 0px;
+
+
+/* icon */
+
+
+position: absolute;
+left: 87.62%;
+right: 6.93%;
+top: 13.07%;
+bottom: 84.54%;
+
+background: #FFE600;
+
+
+/* Ellipse 3 */
+
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 266px;
+top: 614px;
+
+background: #0F1485;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Ellipse 9 */
+
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 312px;
+top: 669px;
+
+background: #EC7C2F;
+
+
+/* Ellipse 5 */
+
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 355px;
+top: 611px;
+
+background: #FFBF2C;
+border: 1px solid #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Ellipse 6 */
+
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 312px;
+top: 614px;
+
+background: #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Ellipse 7 */
+
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 266px;
+top: 669px;
+
+background: #FFFFFF;
+
+
+/* CHOOSE COLOUR */
+
+
+position: absolute;
+width: 166px;
+height: 47px;
+left: 266px;
+top: 548px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 16 */
+
+
+position: absolute;
+width: 147px;
+height: 60px;
+left: 281px;
+top: 828px;
+
+background: #FFFFFF;
+border-radius: 40px 0px 0px 40px;
+
+
+/* Rectangle 17 */
+
+
+position: absolute;
+width: 198px;
+height: 265px;
+left: 0px;
+top: 544px;
+
+background: #FFFFFF;
+border-radius: 0px 40px 40px 0px;
+
+
+/* LAMGORGHINI URUS */
+
+
+position: absolute;
+width: 252px;
+height: 32px;
+left: 17px;
+top: 127px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #233D58;
+
+
+
+/* img_292168 1 */
+
+
+position: absolute;
+width: 42px;
+height: 27px;
+left: 12px;
+top: 568px;
+
+background: url(img_292168.png);
+
+
+/* 4.8 */
+
+
+position: absolute;
+width: 44px;
+height: 30px;
+left: 331px;
+top: 124px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* 7.87 kmpl */
+
+
+position: absolute;
+width: 98px;
+height: 31px;
+left: 64px;
+top: 568px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* 1 + 4 seats */
+
+
+position: absolute;
+width: 106px;
+height: 32px;
+left: 64px;
+top: 610px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* png-clipart-computer-icons-seat-bus-waiting-room-angle-furniture 1 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 36px;
+height: 35px;
+left: 12px;
+top: 607px;
+
+background: url(png-clipart-computer-icons-seat-bus-waiting-room-angle-furniture.png);
+border: 1px solid #000000;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+
+/* Rectangle 19 */
+
+
+position: absolute;
+width: 182px;
+height: 60px;
+left: 0px;
+top: 828px;
+
+background: #FFFFFF;
+border-radius: 0px 40px 40px 0px;
+
+
+/* $1083 / day */
+
+
+position: absolute;
+width: 144px;
+height: 28px;
+left: 26px;
+top: 846px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* 2040878 1 */
+
+
+position: absolute;
+width: 32px;
+height: 31px;
+left: 14px;
+top: 658px;
+
+background: url(2040878.png);
+
+
+/* 650 hp */
+
+
+position: absolute;
+width: 87px;
+height: 28px;
+left: 66px;
+top: 661px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* BOOK NOW */
+
+
+position: absolute;
+width: 104px;
+height: 29px;
+left: 310px;
+top: 845px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* download 1 */
+
+
+position: absolute;
+width: 46px;
+height: 40px;
+left: 8px;
+top: 701px;
+
+background: url(download.png);
+
+
+/* 3.6 seconds */
+
+
+position: absolute;
+width: 114px;
+height: 28px;
+left: 68px;
+top: 708px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* pngtree-vector-fuel-station-icon-png-image_701271 1 */
+
+
+position: absolute;
+width: 37px;
+height: 43px;
+left: 11px;
+top: 749px;
+
+background: url(pngtree-vector-fuel-station-icon-png-image_701271.jpg);
+
+
+/* Petrol */
+
+
+position: absolute;
+width: 82px;
+height: 19px;
+left: 71px;
+top: 758px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* lamborghini-urus-yellow-uhd-4k-wallpaper 1 */
+
+
+position: absolute;
+width: 428px;
+height: 1239px;
+left: 0px;
+top: -312px;
+
+background: url(HD-wallpaper-lamborghini-urus-yellow-car-supercar-desert-dubai-sunset-new.jpg);
+
+
+/* Rectangle 15 */
+
+
+position: absolute;
+width: 100px;
+height: 70px;
+left: 328px;
+top: 0px;
+
+background: #000000;
+border-radius: 0px 0px 0px 30px;
+
+
+/* Rectangle 18 */
+
+
+position: absolute;
+width: 100px;
+height: 70px;
+left: 0px;
+top: 0px;
+
+background: #000000;
+border-radius: 0px 0px 30px 0px;
+
+
+/* icon */
+
+
+position: absolute;
+left: 8.88%;
+right: 85.51%;
+top: 2.38%;
+bottom: 95.03%;
+
+background: #FFFFFF;
+
+
+/* icon */
+
+
+position: absolute;
+left: 84.35%;
+right: 7.71%;
+top: 2.7%;
+bottom: 95.03%;
+
+background: #FFFFFF;
+
+
+/* Rectangle 2 */
+
+
+position: absolute;
+width: 441px;
+height: 472px;
+left: -9px;
+top: 460px;
+
+background: rgba(0, 0, 0, 0.7);
+border-radius: 50px 50px 0px 0px;
+
+
+/* Ellipse 9 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 312px;
+top: 669px;
+
+background: #EC7C2F;
+border: 1px solid #FFFFFF;
+
+
+/* Ellipse 5 */
+
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 355px;
+top: 611px;
+
+background: #FFBF2C;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* icon */
+
+
+position: absolute;
+left: 87.62%;
+right: 6.93%;
+top: 13.07%;
+bottom: 84.54%;
+
+background: #FFE600;
+
+
+/* Ellipse 3 */
+
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 266px;
+top: 614px;
+
+background: #0F1485;
+
+
+/* Ellipse 6 */
+
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 312px;
+top: 614px;
+
+background: #000000;
+
+
+/* Ellipse 7 */
+
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 266px;
+top: 669px;
+
+background: #FFFFFF;
+
+
+/* CHOOSE COLOUR */
+
+
+position: absolute;
+width: 166px;
+height: 47px;
+left: 266px;
+top: 548px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 16 */
+
+
+position: absolute;
+width: 147px;
+height: 60px;
+left: 281px;
+top: 828px;
+
+background: #FFFFFF;
+border-radius: 40px 0px 0px 40px;
+
+
+/* Rectangle 17 */
+
+
+position: absolute;
+width: 198px;
+height: 265px;
+left: 0px;
+top: 544px;
+
+background: #FFFFFF;
+border-radius: 0px 40px 40px 0px;
+
+
+/* LAMGORGHINI URUS */
+
+
+position: absolute;
+width: 252px;
+height: 32px;
+left: 17px;
+top: 127px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #233D58;
+
+
+
+/* img_292168 1 */
+
+
+position: absolute;
+width: 42px;
+height: 27px;
+left: 12px;
+top: 568px;
+
+background: url(img_292168.png);
+
+
+/* 4.8 */
+
+
+position: absolute;
+width: 44px;
+height: 30px;
+left: 331px;
+top: 124px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* 7.87 kmpl */
+
+
+position: absolute;
+width: 98px;
+height: 31px;
+left: 64px;
+top: 568px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* 1 + 4 seats */
+
+
+position: absolute;
+width: 106px;
+height: 32px;
+left: 64px;
+top: 610px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* png-clipart-computer-icons-seat-bus-waiting-room-angle-furniture 1 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 36px;
+height: 35px;
+left: 12px;
+top: 607px;
+
+background: url(png-clipart-computer-icons-seat-bus-waiting-room-angle-furniture.png);
+border: 1px solid #000000;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+
+/* Rectangle 19 */
+
+
+position: absolute;
+width: 182px;
+height: 60px;
+left: 0px;
+top: 828px;
+
+background: #FFFFFF;
+border-radius: 0px 40px 40px 0px;
+
+
+/* $1083 / day */
+
+
+position: absolute;
+width: 144px;
+height: 28px;
+left: 26px;
+top: 846px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* 2040878 1 */
+
+
+position: absolute;
+width: 32px;
+height: 31px;
+left: 14px;
+top: 658px;
+
+background: url(2040878.png);
+
+
+/* 650 hp */
+
+
+position: absolute;
+width: 87px;
+height: 28px;
+left: 66px;
+top: 661px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* BOOK NOW */
+
+
+position: absolute;
+width: 104px;
+height: 29px;
+left: 310px;
+top: 845px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* download 1 */
+
+
+position: absolute;
+width: 46px;
+height: 40px;
+left: 8px;
+top: 701px;
+
+background: url(download.png);
+
+
+/* 3.6 seconds */
+
+
+position: absolute;
+width: 114px;
+height: 28px;
+left: 68px;
+top: 708px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* pngtree-vector-fuel-station-icon-png-image_701271 1 */
+
+
+position: absolute;
+width: 37px;
+height: 43px;
+left: 11px;
+top: 749px;
+
+background: url(pngtree-vector-fuel-station-icon-png-image_701271.jpg);
+
+
+/* Petrol */
+
+
+position: absolute;
+width: 82px;
+height: 19px;
+left: 71px;
+top: 758px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* urus_02 1 */
+
+
+position: absolute;
+width: 416px;
+height: 276px;
+left: -46px;
+top: 169px;
+
+background: url(urus_02.png);
+border-radius: 0px 40px 40px 0px;
+
+
+/* lamborghini-urus-yellow-uhd-4k-wallpaper 1 */
+
+
+position: absolute;
+width: 428px;
+height: 1239px;
+left: 0px;
+top: -193px;
+
+background: url(4640413.png);
+
+
+/* Rectangle 15 */
+
+
+position: absolute;
+width: 100px;
+height: 70px;
+left: 328px;
+top: 0px;
+
+background: #000000;
+border-radius: 0px 0px 0px 30px;
+
+
+/* Rectangle 18 */
+
+
+position: absolute;
+width: 100px;
+height: 70px;
+left: 0px;
+top: 0px;
+
+background: #000000;
+border-radius: 0px 0px 30px 0px;
+
+
+/* icon */
+
+
+position: absolute;
+left: 8.88%;
+right: 85.51%;
+top: 2.38%;
+bottom: 95.03%;
+
+background: #FFFFFF;
+
+
+/* icon */
+
+
+position: absolute;
+left: 84.35%;
+right: 7.71%;
+top: 2.7%;
+bottom: 95.03%;
+
+background: #FFFFFF;
+
+
+/* Rectangle 2 */
+
+
+position: absolute;
+width: 441px;
+height: 472px;
+left: -7px;
+top: 463px;
+
+background: rgba(0, 0, 0, 0.7);
+border-radius: 50px 50px 0px 0px;
+
+
+/* Ellipse 5 */
+
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 355px;
+top: 611px;
+
+background: #FFBF2C;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Ellipse 9 */
+
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 312px;
+top: 669px;
+
+background: #EC7C2F;
+
+
+/* icon */
+
+
+position: absolute;
+left: 88.32%;
+right: 6.23%;
+top: 15.23%;
+bottom: 82.38%;
+
+background: #FFE600;
+
+
+/* Ellipse 3 */
+
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 266px;
+top: 614px;
+
+background: #0F1485;
+
+
+/* Ellipse 6 */
+
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 312px;
+top: 614px;
+
+background: #000000;
+
+
+/* Ellipse 7 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 266px;
+top: 669px;
+
+background: #FFFFFF;
+border: 1px solid #FF0000;
+
+
+/* CHOOSE COLOUR */
+
+
+position: absolute;
+width: 166px;
+height: 47px;
+left: 266px;
+top: 548px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 16 */
+
+
+position: absolute;
+width: 147px;
+height: 60px;
+left: 281px;
+top: 828px;
+
+background: #FFFFFF;
+border-radius: 40px 0px 0px 40px;
+
+
+/* Rectangle 17 */
+
+
+position: absolute;
+width: 198px;
+height: 265px;
+left: 0px;
+top: 544px;
+
+background: #FFFFFF;
+border-radius: 0px 40px 40px 0px;
+
+
+/* LAMGORGHINI URUS */
+
+
+position: absolute;
+width: 252px;
+height: 32px;
+left: 17px;
+top: 147px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #233D58;
+
+
+
+/* img_292168 1 */
+
+
+position: absolute;
+width: 42px;
+height: 27px;
+left: 12px;
+top: 568px;
+
+background: url(img_292168.png);
+
+
+/* 4.8 */
+
+
+position: absolute;
+width: 44px;
+height: 30px;
+left: 329px;
+top: 141px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* 7.87 kmpl */
+
+
+position: absolute;
+width: 98px;
+height: 31px;
+left: 64px;
+top: 568px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* 1 + 4 seats */
+
+
+position: absolute;
+width: 106px;
+height: 32px;
+left: 64px;
+top: 610px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* png-clipart-computer-icons-seat-bus-waiting-room-angle-furniture 1 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 36px;
+height: 35px;
+left: 12px;
+top: 607px;
+
+background: url(png-clipart-computer-icons-seat-bus-waiting-room-angle-furniture.png);
+border: 1px solid #000000;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+
+/* Rectangle 19 */
+
+
+position: absolute;
+width: 182px;
+height: 60px;
+left: 0px;
+top: 828px;
+
+background: #FFFFFF;
+border-radius: 0px 40px 40px 0px;
+
+
+/* $1083 / day */
+
+
+position: absolute;
+width: 144px;
+height: 28px;
+left: 26px;
+top: 846px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* 2040878 1 */
+
+
+position: absolute;
+width: 32px;
+height: 31px;
+left: 14px;
+top: 658px;
+
+background: url(2040878.png);
+
+
+/* 650 hp */
+
+
+position: absolute;
+width: 87px;
+height: 28px;
+left: 66px;
+top: 661px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* BOOK NOW */
+
+
+position: absolute;
+width: 104px;
+height: 29px;
+left: 310px;
+top: 845px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* download 1 */
+
+
+position: absolute;
+width: 46px;
+height: 40px;
+left: 8px;
+top: 701px;
+
+background: url(download.png);
+
+
+/* 3.6 seconds */
+
+
+position: absolute;
+width: 114px;
+height: 28px;
+left: 68px;
+top: 708px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* pngtree-vector-fuel-station-icon-png-image_701271 1 */
+
+
+position: absolute;
+width: 37px;
+height: 43px;
+left: 11px;
+top: 749px;
+
+background: url(pngtree-vector-fuel-station-icon-png-image_701271.jpg);
+
+
+/* Petrol */
+
+
+position: absolute;
+width: 82px;
+height: 19px;
+left: 71px;
+top: 758px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* urus_03_0 1 */
+
+
+position: absolute;
+width: 417px;
+height: 200px;
+left: -30px;
+top: 226px;
+
+background: url(urus_03_0.png);
+border-radius: 0px 40px 40px 0px;
+
+
+/* lamborghini-urus-yellow-uhd-4k-wallpaper 1 */
+
+
+position: absolute;
+width: 428px;
+height: 1239px;
+left: 0px;
+top: -204px;
+
+background: url(6138b8ecf924c9f36d2d28cd172c5691-700.jpg);
+
+
+/* Rectangle 15 */
+
+
+position: absolute;
+width: 100px;
+height: 70px;
+left: 328px;
+top: 0px;
+
+background: #000000;
+border-radius: 0px 0px 0px 30px;
+
+
+/* Rectangle 18 */
+
+
+position: absolute;
+width: 100px;
+height: 70px;
+left: 0px;
+top: 0px;
+
+background: #000000;
+border-radius: 0px 0px 30px 0px;
+
+
+/* icon */
+
+
+position: absolute;
+left: 8.88%;
+right: 85.51%;
+top: 2.38%;
+bottom: 95.03%;
+
+background: #FFFFFF;
+
+
+/* icon */
+
+
+position: absolute;
+left: 84.35%;
+right: 7.71%;
+top: 2.7%;
+bottom: 95.03%;
+
+background: #FFFFFF;
+
+
+/* Rectangle 2 */
+
+
+position: absolute;
+width: 441px;
+height: 472px;
+left: -7px;
+top: 465px;
+
+background: rgba(0, 0, 0, 0.7);
+border-radius: 50px 50px 0px 0px;
+
+
+/* Ellipse 5 */
+
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 355px;
+top: 611px;
+
+background: #FFBF2C;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Ellipse 9 */
+
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 312px;
+top: 669px;
+
+background: #EC7C2F;
+
+
+/* icon */
+
+
+position: absolute;
+left: 88.32%;
+right: 6.23%;
+top: 15.23%;
+bottom: 82.38%;
+
+background: #FFE600;
+
+
+/* Ellipse 3 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 266px;
+top: 614px;
+
+background: #0F1485;
+border: 1px solid #FFFFFF;
+
+
+/* Ellipse 6 */
+
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 312px;
+top: 614px;
+
+background: #000000;
+
+
+/* Ellipse 7 */
+
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 266px;
+top: 669px;
+
+background: #FFFFFF;
+
+
+/* CHOOSE COLOUR */
+
+
+position: absolute;
+width: 166px;
+height: 47px;
+left: 266px;
+top: 548px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 16 */
+
+
+position: absolute;
+width: 147px;
+height: 60px;
+left: 281px;
+top: 828px;
+
+background: #FFFFFF;
+border-radius: 40px 0px 0px 40px;
+
+
+/* Rectangle 17 */
+
+
+position: absolute;
+width: 198px;
+height: 265px;
+left: 0px;
+top: 544px;
+
+background: #FFFFFF;
+border-radius: 0px 40px 40px 0px;
+
+
+/* LAMGORGHINI URUS */
+
+
+position: absolute;
+width: 252px;
+height: 32px;
+left: 17px;
+top: 147px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #233D58;
+
+
+
+/* img_292168 1 */
+
+
+position: absolute;
+width: 42px;
+height: 27px;
+left: 12px;
+top: 568px;
+
+background: url(img_292168.png);
+
+
+/* 4.8 */
+
+
+position: absolute;
+width: 44px;
+height: 30px;
+left: 329px;
+top: 141px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* 7.87 kmpl */
+
+
+position: absolute;
+width: 98px;
+height: 31px;
+left: 64px;
+top: 568px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* 1 + 4 seats */
+
+
+position: absolute;
+width: 106px;
+height: 32px;
+left: 64px;
+top: 610px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* png-clipart-computer-icons-seat-bus-waiting-room-angle-furniture 1 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 36px;
+height: 35px;
+left: 12px;
+top: 607px;
+
+background: url(png-clipart-computer-icons-seat-bus-waiting-room-angle-furniture.png);
+border: 1px solid #000000;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+
+/* Rectangle 19 */
+
+
+position: absolute;
+width: 182px;
+height: 60px;
+left: 0px;
+top: 828px;
+
+background: #FFFFFF;
+border-radius: 0px 40px 40px 0px;
+
+
+/* $1083 / day */
+
+
+position: absolute;
+width: 144px;
+height: 28px;
+left: 26px;
+top: 846px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* 2040878 1 */
+
+
+position: absolute;
+width: 32px;
+height: 31px;
+left: 14px;
+top: 658px;
+
+background: url(2040878.png);
+
+
+/* 650 hp */
+
+
+position: absolute;
+width: 87px;
+height: 28px;
+left: 66px;
+top: 661px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* BOOK NOW */
+
+
+position: absolute;
+width: 104px;
+height: 29px;
+left: 310px;
+top: 845px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* download 1 */
+
+
+position: absolute;
+width: 46px;
+height: 40px;
+left: 8px;
+top: 701px;
+
+background: url(download.png);
+
+
+/* 3.6 seconds */
+
+
+position: absolute;
+width: 114px;
+height: 28px;
+left: 68px;
+top: 708px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* pngtree-vector-fuel-station-icon-png-image_701271 1 */
+
+
+position: absolute;
+width: 37px;
+height: 43px;
+left: 11px;
+top: 749px;
+
+background: url(pngtree-vector-fuel-station-icon-png-image_701271.jpg);
+
+
+/* Petrol */
+
+
+position: absolute;
+width: 82px;
+height: 19px;
+left: 71px;
+top: 758px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* 4496173 1 */
+
+
+position: absolute;
+width: 372px;
+height: 200px;
+left: -11px;
+top: 215px;
+
+background: url(4496173.png);
+border-radius: 0px 40px 40px 0px;
+
+
+/* lamborghini-urus-yellow-uhd-4k-wallpaper 1 */
+
+
+position: absolute;
+width: 428px;
+height: 1239px;
+left: 0px;
+top: -204px;
+
+background: url(2d2e2639dd086a3bec3d1f0afb25635b.jpg);
+
+
+/* Rectangle 15 */
+
+
+position: absolute;
+width: 100px;
+height: 70px;
+left: 328px;
+top: 0px;
+
+background: #000000;
+border-radius: 0px 0px 0px 30px;
+
+
+/* Rectangle 18 */
+
+
+position: absolute;
+width: 100px;
+height: 70px;
+left: 0px;
+top: 0px;
+
+background: #000000;
+border-radius: 0px 0px 30px 0px;
+
+
+/* icon */
+
+
+position: absolute;
+left: 8.88%;
+right: 85.51%;
+top: 2.38%;
+bottom: 95.03%;
+
+background: #FFFFFF;
+
+
+/* icon */
+
+
+position: absolute;
+left: 84.35%;
+right: 7.71%;
+top: 2.7%;
+bottom: 95.03%;
+
+background: #FFFFFF;
+
+
+/* Rectangle 2 */
+
+
+position: absolute;
+width: 441px;
+height: 472px;
+left: -9px;
+top: 463px;
+
+background: rgba(0, 0, 0, 0.7);
+border-radius: 50px 50px 0px 0px;
+
+
+/* Ellipse 5 */
+
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 355px;
+top: 611px;
+
+background: #FFBF2C;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Ellipse 9 */
+
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 312px;
+top: 669px;
+
+background: #EC7C2F;
+
+
+/* icon */
+
+
+position: absolute;
+left: 88.32%;
+right: 6.23%;
+top: 15.23%;
+bottom: 82.38%;
+
+background: #FFE600;
+
+
+/* Ellipse 3 */
+
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 266px;
+top: 614px;
+
+background: #0F1485;
+
+
+/* Ellipse 6 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 312px;
+top: 614px;
+
+background: #000000;
+border: 1px solid #FFFFFF;
+
+
+/* Ellipse 7 */
+
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 266px;
+top: 669px;
+
+background: #FFFFFF;
+
+
+/* CHOOSE COLOUR */
+
+
+position: absolute;
+width: 166px;
+height: 47px;
+left: 266px;
+top: 548px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 16 */
+
+
+position: absolute;
+width: 147px;
+height: 60px;
+left: 281px;
+top: 828px;
+
+background: #FFFFFF;
+border-radius: 40px 0px 0px 40px;
+
+
+/* Rectangle 17 */
+
+
+position: absolute;
+width: 198px;
+height: 265px;
+left: 0px;
+top: 544px;
+
+background: #FFFFFF;
+border-radius: 0px 40px 40px 0px;
+
+
+/* LAMGORGHINI URUS */
+
+
+position: absolute;
+width: 252px;
+height: 32px;
+left: 17px;
+top: 147px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #233D58;
+
+
+
+/* img_292168 1 */
+
+
+position: absolute;
+width: 42px;
+height: 27px;
+left: 12px;
+top: 568px;
+
+background: url(img_292168.png);
+
+
+/* 4.8 */
+
+
+position: absolute;
+width: 44px;
+height: 30px;
+left: 329px;
+top: 141px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* 7.87 kmpl */
+
+
+position: absolute;
+width: 98px;
+height: 31px;
+left: 64px;
+top: 568px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* 1 + 4 seats */
+
+
+position: absolute;
+width: 106px;
+height: 32px;
+left: 64px;
+top: 610px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* png-clipart-computer-icons-seat-bus-waiting-room-angle-furniture 1 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 36px;
+height: 35px;
+left: 12px;
+top: 607px;
+
+background: url(png-clipart-computer-icons-seat-bus-waiting-room-angle-furniture.png);
+border: 1px solid #000000;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+
+/* Rectangle 19 */
+
+
+position: absolute;
+width: 182px;
+height: 60px;
+left: 0px;
+top: 828px;
+
+background: #FFFFFF;
+border-radius: 0px 40px 40px 0px;
+
+
+/* $1083 / day */
+
+
+position: absolute;
+width: 144px;
+height: 28px;
+left: 26px;
+top: 846px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* 2040878 1 */
+
+
+position: absolute;
+width: 32px;
+height: 31px;
+left: 14px;
+top: 658px;
+
+background: url(2040878.png);
+
+
+/* 650 hp */
+
+
+position: absolute;
+width: 87px;
+height: 28px;
+left: 66px;
+top: 661px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* BOOK NOW */
+
+
+position: absolute;
+width: 104px;
+height: 29px;
+left: 310px;
+top: 845px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* download 1 */
+
+
+position: absolute;
+width: 46px;
+height: 40px;
+left: 8px;
+top: 701px;
+
+background: url(download.png);
+
+
+/* 3.6 seconds */
+
+
+position: absolute;
+width: 114px;
+height: 28px;
+left: 68px;
+top: 708px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* pngtree-vector-fuel-station-icon-png-image_701271 1 */
+
+
+position: absolute;
+width: 37px;
+height: 43px;
+left: 11px;
+top: 749px;
+
+background: url(pngtree-vector-fuel-station-icon-png-image_701271.jpg);
+
+
+/* Petrol */
+
+
+position: absolute;
+width: 82px;
+height: 19px;
+left: 71px;
+top: 758px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* fe10ec00d4ce077e5a1cd7a285a5f219 1 */
+
+
+position: absolute;
+width: 345px;
+height: 191px;
+left: -3px;
+top: 215px;
+
+background: url(fe10ec00d4ce077e5a1cd7a285a5f219.jpg);
+border-radius: 0px 40px 40px 0px;
