@@ -1,0 +1,1873 @@
+/* image 1 */
+
+
+position: absolute;
+width: 360px;
+height: 800px;
+left: 0px;
+top: 0px;
+
+background: url(image.png);
+
+
+/* LOGITECH G 733 WIRELESS */
+
+
+position: absolute;
+width: 321px;
+height: 139px;
+left: 20px;
+top: 48px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 38px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Rectangle 1 */
+
+
+position: absolute;
+width: 180px;
+height: 65px;
+left: 180px;
+top: 663px;
+
+background: #B991FF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 30px 0px 0px 30px;
+
+
+/* SHOP NOW */
+
+
+position: absolute;
+width: 180px;
+height: 46px;
+left: 218px;
+top: 682px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* 24 / symbols / facebook */
+
+
+position: absolute;
+left: 5.56%;
+right: 87.78%;
+top: 36.62%;
+bottom: 60.38%;
+
+
+
+/* 24 / symbols / instagram */
+
+
+position: absolute;
+left: 6.11%;
+right: 87.22%;
+top: 42.25%;
+bottom: 54.75%;
+
+
+
+/* 24 / symbols / twitter */
+
+
+position: absolute;
+left: 5.56%;
+right: 87.78%;
+top: 47.88%;
+bottom: 49.12%;
+
+
+
+/* 24 / maps / 360 */
+
+
+position: absolute;
+left: 5.56%;
+right: 87.78%;
+top: 53.5%;
+bottom: 43.5%;
+
+
+
+/* image 12 */
+
+
+position: absolute;
+width: 50px;
+height: 50px;
+left: 283px;
+top: 51px;
+
+background: url(image.png);
+border-radius: 100px;
+
+
+/* image 13 */
+
+
+position: absolute;
+width: 1200px;
+height: 800px;
+left: -500px;
+top: 0px;
+
+background: url(image.png);
+
+
+/* image 4 */
+
+
+position: absolute;
+width: 247px;
+height: 190px;
+left: -42px;
+top: 583px;
+
+background: url(.png);
+
+
+/* Rectangle 2 */
+
+
+position: absolute;
+width: 183px;
+height: 82px;
+left: 156px;
+top: 97px;
+
+background: #FFFFFF;
+border-radius: 30px;
+
+
+/* Rectangle 19 */
+
+
+position: absolute;
+width: 115px;
+height: 96px;
+left: 17px;
+top: 101px;
+
+background: #FD8B65;
+border-radius: 30px;
+
+
+/* LIGHT WEIGHT AND COMFORTABLE */
+
+
+position: absolute;
+width: 172px;
+height: 62px;
+left: 144px;
+top: 115px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 22px;
+text-align: right;
+
+color: #000000;
+
+
+
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 234px;
+height: 82px;
+left: 14px;
+top: 239px;
+
+background: #FFFFFF;
+border-radius: 30px;
+
+
+/* icon */
+
+
+position: absolute;
+left: 55.83%;
+right: 41.08%;
+top: 35%;
+bottom: 62.4%;
+
+background: #000000;
+
+
+/* 24 / gadgets / battery-100 */
+
+
+position: absolute;
+width: 24px;
+left: calc(50% - 24px/2 + 28px);
+top: 31.75%;
+bottom: 65.25%;
+
+
+
+/* Rectangle 4 */
+
+
+position: absolute;
+width: 234px;
+height: 62px;
+left: 126px;
+top: 359px;
+
+background: #FFFFFF;
+border-radius: 30px;
+
+
+/* Rectangle 6 */
+
+
+position: absolute;
+width: 251px;
+height: 82px;
+left: 109px;
+top: 477px;
+
+background: #FFFFFF;
+border-radius: 30px;
+
+
+/* CUSTOMISABLE LIGHTSYNC RGB LIGHTING */
+
+
+position: absolute;
+width: 132px;
+height: 56px;
+left: 144px;
+top: 489px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 20px;
+
+color: #000000;
+
+
+
+/* Rectangle 5 */
+
+
+position: absolute;
+width: 203px;
+height: 52px;
+left: 217px;
+top: 699px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+
+
+/* ORDER NOW */
+
+
+position: absolute;
+width: 130px;
+height: 26px;
+left: 229px;
+top: 712px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 22px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* 29 HOUR BATTERY 20 METER RANGE */
+
+
+position: absolute;
+width: 171px;
+height: 44px;
+left: 36px;
+top: 256px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 22px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* ‘WHITE’ */
+
+
+position: absolute;
+width: 254px;
+height: 58px;
+left: 53px;
+top: 27px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 38px;
+text-align: center;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* MEMORY FOAM PADS */
+
+
+position: absolute;
+width: 191px;
+height: 54px;
+left: 146px;
+top: 377px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 22px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* COLOURS */
+
+
+position: absolute;
+width: 101px;
+height: 25px;
+left: -1px;
+top: 373px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 22px;
+text-align: center;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Ellipse 1 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 27px;
+height: 27px;
+left: 32px;
+top: 406px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Ellipse 2 */
+
+
+position: absolute;
+width: 27px;
+height: 27px;
+left: 32px;
+top: 450px;
+
+background: #B991FF;
+
+
+/* Ellipse 3 */
+
+
+position: absolute;
+width: 27px;
+height: 27px;
+left: 32px;
+top: 495px;
+
+background: #000000;
+
+
+/* Ellipse 4 */
+
+
+position: absolute;
+width: 27px;
+height: 27px;
+left: 32px;
+top: 539px;
+
+background: #1173B8;
+
+
+/* ₹12,795.00 */
+
+
+position: absolute;
+width: 109px;
+height: 38px;
+left: 239px;
+top: 661px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 15 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 11px;
+height: 42px;
+left: 283px;
+top: 497px;
+
+background: #FF0000;
+border: 1px solid #000000;
+
+
+/* Rectangle 16 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 11px;
+height: 42px;
+left: 298px;
+top: 497px;
+
+background: #14FF00;
+border: 1px solid #000000;
+
+
+/* Rectangle 17 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 11px;
+height: 42px;
+left: 313px;
+top: 497px;
+
+background: #0057FF;
+border: 1px solid #000000;
+
+
+/* Rectangle 18 */
+
+
+position: absolute;
+width: 115px;
+height: 96px;
+left: 17px;
+top: 101px;
+
+background: #FFFFFF;
+border-radius: 30px;
+
+
+/* DETACHABLE 6mm MIC */
+
+
+position: absolute;
+width: 95px;
+height: 61px;
+left: 26px;
+top: 120px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 20px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Ellipse 7 */
+
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 19px;
+top: 27px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* icon */
+
+
+position: absolute;
+left: 8.33%;
+right: 86.67%;
+top: 4.75%;
+bottom: 93.12%;
+
+background: #000000;
+
+
+/* image 6 */
+
+
+position: absolute;
+width: 840px;
+height: 890px;
+left: -21px;
+top: -90px;
+
+background: url(image.png);
+
+
+/* image 5 */
+
+
+position: absolute;
+width: 271px;
+height: 172px;
+left: -42px;
+top: 594px;
+
+background: url(.png);
+
+
+/* ‘LILAC’ */
+
+
+position: absolute;
+width: 254px;
+height: 58px;
+left: 65px;
+top: 20px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 38px;
+text-align: center;
+
+color: #803BF4;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 234px;
+height: 82px;
+left: 14px;
+top: 239px;
+
+background: #B991FF;
+border-radius: 30px;
+
+
+/* 24 / gadgets / battery-100 */
+
+
+position: absolute;
+width: 24px;
+left: calc(50% - 24px/2 + 28px);
+top: 31.75%;
+bottom: 65.25%;
+
+
+
+/* 29 HOUR BATTERY 20 METER RANGE */
+
+
+position: absolute;
+width: 171px;
+height: 44px;
+left: 36px;
+top: 256px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 22px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* icon */
+
+
+position: absolute;
+left: 55.83%;
+right: 41.08%;
+top: 35%;
+bottom: 62.4%;
+
+background: #000000;
+
+
+/* COLOURS */
+
+
+position: absolute;
+width: 101px;
+height: 25px;
+left: -1px;
+top: 373px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 22px;
+text-align: center;
+
+color: #8B55E9;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Ellipse 1 */
+
+
+position: absolute;
+width: 27px;
+height: 27px;
+left: 32px;
+top: 406px;
+
+background: #FFFFFF;
+
+
+/* Ellipse 2 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 27px;
+height: 27px;
+left: 32px;
+top: 450px;
+
+background: #B991FF;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Ellipse 3 */
+
+
+position: absolute;
+width: 27px;
+height: 27px;
+left: 32px;
+top: 495px;
+
+background: #000000;
+
+
+/* Ellipse 4 */
+
+
+position: absolute;
+width: 27px;
+height: 27px;
+left: 32px;
+top: 495px;
+
+background: #000000;
+
+
+/* Ellipse 5 */
+
+
+position: absolute;
+width: 27px;
+height: 27px;
+left: 32px;
+top: 495px;
+
+background: #000000;
+
+
+/* Ellipse 6 */
+
+
+position: absolute;
+width: 27px;
+height: 27px;
+left: 32px;
+top: 539px;
+
+background: #1173B8;
+
+
+/* ₹12,795.00 */
+
+
+position: absolute;
+width: 109px;
+height: 38px;
+left: 239px;
+top: 661px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+text-align: center;
+
+color: #8B55E9;
+
+
+
+/* Rectangle 5 */
+
+
+position: absolute;
+width: 203px;
+height: 52px;
+left: 217px;
+top: 699px;
+
+background: #B991FF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+
+
+/* ORDER NOW */
+
+
+position: absolute;
+width: 130px;
+height: 26px;
+left: 229px;
+top: 712px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 22px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 4 */
+
+
+position: absolute;
+width: 234px;
+height: 62px;
+left: 126px;
+top: 359px;
+
+background: #B991FF;
+border-radius: 30px;
+
+
+/* MEMORY FOAM PADS */
+
+
+position: absolute;
+width: 191px;
+height: 54px;
+left: 146px;
+top: 377px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 22px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 6 */
+
+
+position: absolute;
+width: 251px;
+height: 82px;
+left: 109px;
+top: 477px;
+
+background: #B991FF;
+border-radius: 30px;
+
+
+/* Rectangle 17 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 11px;
+height: 42px;
+left: 313px;
+top: 497px;
+
+background: #0057FF;
+border: 1px solid #000000;
+
+
+/* Rectangle 16 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 11px;
+height: 42px;
+left: 298px;
+top: 497px;
+
+background: #14FF00;
+border: 1px solid #000000;
+
+
+/* Rectangle 15 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 11px;
+height: 42px;
+left: 283px;
+top: 497px;
+
+background: #FF0000;
+border: 1px solid #000000;
+
+
+/* CUSTOMISABLE LIGHTSYNC RGB LIGHTING */
+
+
+position: absolute;
+width: 176px;
+height: 43px;
+left: 148px;
+top: 490px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 20px;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 18 */
+
+
+position: absolute;
+width: 115px;
+height: 96px;
+left: 17px;
+top: 101px;
+
+background: #B991FF;
+border-radius: 30px;
+
+
+/* DETACHABLE 6mm MIC */
+
+
+position: absolute;
+width: 95px;
+height: 61px;
+left: 26px;
+top: 120px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 20px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 2 */
+
+
+position: absolute;
+width: 183px;
+height: 82px;
+left: 156px;
+top: 97px;
+
+background: #B991FF;
+border-radius: 30px;
+
+
+/* LIGHT WEIGHT AND COMFORTABLE */
+
+
+position: absolute;
+width: 172px;
+height: 62px;
+left: 144px;
+top: 115px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 22px;
+text-align: right;
+
+color: #FFFFFF;
+
+
+
+/* Ellipse 7 */
+
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 19px;
+top: 27px;
+
+background: #B991FF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* icon */
+
+
+position: absolute;
+left: 8.33%;
+right: 86.67%;
+top: 4.75%;
+bottom: 93.12%;
+
+background: #FFFFFF;
+
+
+/* image 8 */
+
+
+position: absolute;
+width: 952px;
+height: 800px;
+left: -15px;
+top: 0px;
+
+background: url(image.png);
+
+
+/* image 7 */
+
+
+position: absolute;
+width: 235px;
+height: 165px;
+left: -27px;
+top: 597px;
+
+background: url(.png);
+
+
+/* ‘BLUE’ */
+
+
+position: absolute;
+width: 254px;
+height: 58px;
+left: 65px;
+top: 20px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 38px;
+text-align: center;
+
+color: #0769B0;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 234px;
+height: 82px;
+left: 14px;
+top: 239px;
+
+background: #0095F3;
+border-radius: 30px;
+
+
+/* icon */
+
+
+position: absolute;
+left: 55.83%;
+right: 41.08%;
+top: 35%;
+bottom: 62.4%;
+
+background: #000000;
+
+
+/* 24 / gadgets / battery-100 */
+
+
+position: absolute;
+width: 24px;
+left: calc(50% - 24px/2 + 28px);
+top: 31.75%;
+bottom: 65.25%;
+
+
+
+/* 29 HOUR BATTERY 20 METER RANGE */
+
+
+position: absolute;
+width: 171px;
+height: 44px;
+left: 36px;
+top: 256px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 22px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 4 */
+
+
+position: absolute;
+width: 234px;
+height: 62px;
+left: 126px;
+top: 359px;
+
+background: #0095F3;
+border-radius: 30px;
+
+
+/* MEMORY FOAM PADS */
+
+
+position: absolute;
+width: 191px;
+height: 54px;
+left: 146px;
+top: 377px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 22px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* COLOURS */
+
+
+position: absolute;
+width: 101px;
+height: 25px;
+left: -1px;
+top: 373px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 22px;
+text-align: center;
+
+color: #0769B0;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Ellipse 1 */
+
+
+position: absolute;
+width: 27px;
+height: 27px;
+left: 32px;
+top: 406px;
+
+background: #FFFFFF;
+
+
+/* Ellipse 2 */
+
+
+position: absolute;
+width: 27px;
+height: 27px;
+left: 32px;
+top: 450px;
+
+background: #B991FF;
+
+
+/* Ellipse 5 */
+
+
+position: absolute;
+width: 27px;
+height: 27px;
+left: 32px;
+top: 495px;
+
+background: #000000;
+
+
+/* Ellipse 6 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 27px;
+height: 27px;
+left: 32px;
+top: 539px;
+
+background: #1173B8;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* ₹12,795.00 */
+
+
+position: absolute;
+width: 109px;
+height: 38px;
+left: 239px;
+top: 661px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+text-align: center;
+
+color: #0769B0;
+
+
+
+/* Rectangle 5 */
+
+
+position: absolute;
+width: 203px;
+height: 52px;
+left: 217px;
+top: 699px;
+
+background: #0095F3;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+
+
+/* ORDER NOW */
+
+
+position: absolute;
+width: 130px;
+height: 26px;
+left: 229px;
+top: 712px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 22px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 6 */
+
+
+position: absolute;
+width: 251px;
+height: 82px;
+left: 109px;
+top: 477px;
+
+background: #0095F3;
+border-radius: 30px;
+
+
+/* Rectangle 16 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 11px;
+height: 42px;
+left: 298px;
+top: 497px;
+
+background: #14FF00;
+border: 1px solid #000000;
+
+
+/* Rectangle 15 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 11px;
+height: 42px;
+left: 283px;
+top: 497px;
+
+background: #FF0000;
+border: 1px solid #000000;
+
+
+/* Rectangle 17 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 11px;
+height: 42px;
+left: 313px;
+top: 497px;
+
+background: #0057FF;
+border: 1px solid #000000;
+
+
+/* CUSTOMISABLE LIGHTSYNC RGB LIGHTING */
+
+
+position: absolute;
+width: 176px;
+height: 43px;
+left: 151px;
+top: 487px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 20px;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 18 */
+
+
+position: absolute;
+width: 115px;
+height: 96px;
+left: 17px;
+top: 101px;
+
+background: #0095F3;
+border-radius: 30px;
+
+
+/* DETACHABLE 6mm MIC */
+
+
+position: absolute;
+width: 95px;
+height: 61px;
+left: 26px;
+top: 120px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 20px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 2 */
+
+
+position: absolute;
+width: 183px;
+height: 82px;
+left: 156px;
+top: 97px;
+
+background: #0095F3;
+border-radius: 30px;
+
+
+/* LIGHT WEIGHT AND COMFORTABLE */
+
+
+position: absolute;
+width: 172px;
+height: 62px;
+left: 144px;
+top: 115px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 22px;
+text-align: right;
+
+color: #FFFFFF;
+
+
+
+/* Ellipse 7 */
+
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 19px;
+top: 27px;
+
+background: #37ACF6;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* icon */
+
+
+position: absolute;
+left: 8.33%;
+right: 86.67%;
+top: 4.75%;
+bottom: 93.12%;
+
+background: #FFFFFF;
+
+
+/* image 14 */
+
+
+position: absolute;
+width: 1000px;
+height: 800px;
+left: -303px;
+top: 0px;
+
+background: url(image.png);
+
+
+/* image 10 */
+
+
+position: absolute;
+width: 170px;
+height: 184px;
+left: 5px;
+top: 585px;
+
+background: url(.png);
+
+
+/* ‘BLACK’ */
+
+
+position: absolute;
+width: 254px;
+height: 58px;
+left: 65px;
+top: 20px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 38px;
+text-align: center;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 234px;
+height: 82px;
+left: 14px;
+top: 239px;
+
+background: rgba(0, 0, 0, 0.46);
+border-radius: 30px;
+
+
+/* icon */
+
+
+position: absolute;
+left: 57.22%;
+right: 39.69%;
+top: 35%;
+bottom: 62.4%;
+
+background: #000000;
+
+
+/* 24 / gadgets / battery-100 */
+
+
+position: absolute;
+width: 24px;
+left: calc(50% - 24px/2 + 32px);
+top: 31.75%;
+bottom: 65.25%;
+
+
+
+/* 29 HOUR BATTERY 20 METER RANGE */
+
+
+position: absolute;
+width: 171px;
+height: 44px;
+left: 36px;
+top: 256px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 22px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 4 */
+
+
+position: absolute;
+width: 234px;
+height: 62px;
+left: 126px;
+top: 359px;
+
+background: rgba(0, 0, 0, 0.46);
+border-radius: 30px;
+
+
+/* MEMORY FOAM PADS */
+
+
+position: absolute;
+width: 191px;
+height: 54px;
+left: 146px;
+top: 377px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 22px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* COLOURS */
+
+
+position: absolute;
+width: 101px;
+height: 25px;
+left: -1px;
+top: 373px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 22px;
+text-align: center;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Ellipse 1 */
+
+
+position: absolute;
+width: 27px;
+height: 27px;
+left: 32px;
+top: 406px;
+
+background: #FFFFFF;
+
+
+/* Ellipse 2 */
+
+
+position: absolute;
+width: 27px;
+height: 27px;
+left: 32px;
+top: 450px;
+
+background: #B991FF;
+
+
+/* Ellipse 5 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 27px;
+height: 27px;
+left: 32px;
+top: 495px;
+
+background: #000000;
+border: 1px solid #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Ellipse 6 */
+
+
+position: absolute;
+width: 27px;
+height: 27px;
+left: 32px;
+top: 539px;
+
+background: #1173B8;
+
+
+/* ₹12,795.00 */
+
+
+position: absolute;
+width: 109px;
+height: 38px;
+left: 239px;
+top: 661px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 5 */
+
+
+position: absolute;
+width: 203px;
+height: 52px;
+left: 217px;
+top: 699px;
+
+background: rgba(0, 0, 0, 0.9);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+
+
+/* ORDER NOW */
+
+
+position: absolute;
+width: 130px;
+height: 26px;
+left: 229px;
+top: 712px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 22px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 6 */
+
+
+position: absolute;
+width: 251px;
+height: 82px;
+left: 109px;
+top: 477px;
+
+background: rgba(0, 0, 0, 0.46);
+border-radius: 30px;
+
+
+/* Rectangle 16 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 11px;
+height: 42px;
+left: 298px;
+top: 497px;
+
+background: #14FF00;
+border: 1px solid #000000;
+
+
+/* Rectangle 15 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 11px;
+height: 42px;
+left: 283px;
+top: 497px;
+
+background: #FF0000;
+border: 1px solid #000000;
+
+
+/* Rectangle 17 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 11px;
+height: 42px;
+left: 313px;
+top: 497px;
+
+background: #0057FF;
+border: 1px solid #000000;
+
+
+/* CUSTOMISABLE LIGHTSYNC RGB LIGHTING */
+
+
+position: absolute;
+width: 176px;
+height: 43px;
+left: 148px;
+top: 490px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 20px;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 18 */
+
+
+position: absolute;
+width: 115px;
+height: 96px;
+left: 17px;
+top: 101px;
+
+background: rgba(0, 0, 0, 0.46);
+border-radius: 30px;
+
+
+/* DETACHABLE 6mm MIC */
+
+
+position: absolute;
+width: 95px;
+height: 61px;
+left: 26px;
+top: 120px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 20px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 2 */
+
+
+position: absolute;
+width: 183px;
+height: 82px;
+left: 156px;
+top: 97px;
+
+background: rgba(0, 0, 0, 0.46);
+border-radius: 30px;
+
+
+/* LIGHT WEIGHT AND COMFORTABLE */
+
+
+position: absolute;
+width: 172px;
+height: 62px;
+left: 144px;
+top: 115px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 22px;
+text-align: right;
+
+color: #FFFFFF;
+
+
+
+/* Ellipse 7 */
+
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 19px;
+top: 27px;
+
+background: #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* icon */
+
+
+position: absolute;
+left: 8.33%;
+right: 86.67%;
+top: 4.75%;
+bottom: 93.12%;
+
+background: #FFFFFF;
