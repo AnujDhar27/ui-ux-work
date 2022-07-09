@@ -1,0 +1,2141 @@
+/* image 1 */
+
+
+position: absolute;
+width: 1683px;
+height: 952px;
+left: -606px;
+top: -26px;
+
+background: url(image.png);
+
+
+/* Rectangle 1 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 215px;
+height: 144px;
+left: 237px;
+top: 693px;
+
+background: #454444;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 40px;
+
+
+/* Rectangle 2 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 90px;
+height: 176px;
+left: -23px;
+top: 481px;
+
+background: #454444;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 40px;
+
+
+/* GET YOUR PREMIUM VODKA NOW */
+
+
+position: absolute;
+width: 152px;
+height: 102px;
+left: 272px;
+top: 715px;
+
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 25px;
+
+color: #FFFFFF;
+
+border: 1px solid #000000;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* image 5 */
+
+
+position: absolute;
+width: 140px;
+height: 60px;
+left: 30px;
+top: 61px;
+
+background: url(image.png);
+
+
+/* Ellipse 1 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 30.97px;
+height: 30px;
+left: 373px;
+top: 787px;
+
+background: #4B4A4A;
+border: 1px solid #9D9191;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* icon */
+
+
+position: absolute;
+left: 89.02%;
+right: 7.48%;
+top: 85.96%;
+bottom: 12.53%;
+
+background: #FFFFFF;
+
+
+/* 24 / maps / 360 */
+
+
+position: absolute;
+left: 4.67%;
+right: 89.72%;
+top: 66.09%;
+bottom: 31.32%;
+
+
+
+/* 24 / symbols / twitter */
+
+
+position: absolute;
+left: 4.67%;
+right: 89.72%;
+top: 62.1%;
+bottom: 35.31%;
+
+
+
+/* 24 / symbols / instagram */
+
+
+position: absolute;
+left: 4.44%;
+right: 89.95%;
+top: 58.1%;
+bottom: 39.31%;
+
+
+
+/* 24 / symbols / facebook */
+
+
+position: absolute;
+left: 4.21%;
+right: 90.19%;
+top: 54.1%;
+bottom: 43.3%;
+
+
+
+/* image 11 */
+
+
+position: absolute;
+width: 173px;
+height: 47.72px;
+left: 223px;
+top: 67px;
+
+background: url(image.png);
+
+
+/* image 1 */
+
+
+position: absolute;
+width: 1683px;
+height: 952px;
+left: -606px;
+top: -26px;
+
+background: url(image.png);
+
+
+/* Rectangle 1 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 203px;
+height: 135px;
+left: 249px;
+top: 693px;
+
+background: rgba(69, 68, 68, 0.5);
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 40px;
+
+
+/* GET YOUR PREMIUM VODKA NOW */
+
+
+position: absolute;
+width: 152px;
+height: 102px;
+left: 272px;
+top: 715px;
+
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 25px;
+
+color: rgba(149, 141, 141, 0.5);
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* image 5 */
+
+
+position: absolute;
+width: 140px;
+height: 60px;
+left: 35px;
+top: 60px;
+
+background: url(image.png);
+
+
+/* Ellipse 1 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 30.97px;
+height: 30px;
+left: 377px;
+top: 773px;
+
+background: rgba(75, 74, 74, 0.5);
+border: 1px solid #FFFFFF;
+
+
+/* icon */
+
+
+position: absolute;
+left: 89.95%;
+right: 6.54%;
+top: 84.45%;
+bottom: 14.04%;
+
+background: rgba(255, 255, 255, 0.5);
+
+
+/* 24 / maps / 360 */
+
+
+position: absolute;
+left: 4.67%;
+right: 89.72%;
+top: 66.09%;
+bottom: 31.32%;
+
+
+
+/* 24 / symbols / twitter */
+
+
+position: absolute;
+left: 4.21%;
+right: 90.19%;
+top: 62.1%;
+bottom: 35.31%;
+
+
+
+/* 24 / symbols / instagram */
+
+
+position: absolute;
+left: 4.21%;
+right: 90.19%;
+top: 58.1%;
+bottom: 39.31%;
+
+
+
+/* 24 / symbols / facebook */
+
+
+position: absolute;
+left: 4.21%;
+right: 90.19%;
+top: 54.1%;
+bottom: 43.3%;
+
+
+
+/* Rectangle 34 */
+
+
+position: absolute;
+width: 357px;
+height: 587px;
+left: 35px;
+top: 173px;
+
+background: #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+
+
+/* image 6 */
+
+
+position: absolute;
+width: 114px;
+height: 47px;
+left: 151px;
+top: 213px;
+
+background: url(image.png);
+
+
+/* Please enter your Birthday. */
+
+
+position: absolute;
+width: 292px;
+height: 62px;
+left: 58px;
+top: 290px;
+
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 25px;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 35 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 82px;
+height: 46px;
+left: 58px;
+top: 382px;
+
+background: #000000;
+border: 1px solid #FFFFFF;
+border-radius: 15px;
+
+
+/* Rectangle 36 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 82px;
+height: 46px;
+left: 167px;
+top: 382px;
+
+background: #000000;
+border: 1px solid #FFFFFF;
+border-radius: 15px;
+
+
+/* Rectangle 37 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 82px;
+height: 46px;
+left: 276px;
+top: 382px;
+
+background: #000000;
+border: 1px solid #FFFFFF;
+border-radius: 15px;
+
+
+/* DD */
+
+
+position: absolute;
+width: 34px;
+height: 19px;
+left: 81px;
+top: 394px;
+
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 23px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* MM */
+
+
+position: absolute;
+width: 43px;
+height: 17px;
+left: 187px;
+top: 393px;
+
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 23px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* YYYY */
+
+
+position: absolute;
+width: 65px;
+height: 16px;
+left: 285px;
+top: 394px;
+
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 23px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* You must be of legal drinking age in your respective country for entry. By entering you accept our Terms and Conditions and our Privacy Policy. We encourange drinking reponsibly. */
+
+
+position: absolute;
+width: 303px;
+height: 89px;
+left: 62px;
+top: 462px;
+
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 16px;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 38 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 296px;
+height: 54px;
+left: 62px;
+top: 565px;
+
+background: #000000;
+border: 1px solid #FFFFFF;
+border-radius: 30px;
+
+
+/* United Kingdom */
+
+
+position: absolute;
+width: 200px;
+height: 21px;
+left: 85px;
+top: 578px;
+
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 25px;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 39 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 219px;
+height: 59px;
+left: 96px;
+top: 660px;
+
+background: #FFFFFF;
+border: 1px solid #FFFFFF;
+border-radius: 25px;
+
+
+/* Enter */
+
+
+position: absolute;
+width: 188px;
+height: 29px;
+left: 113px;
+top: 675px;
+
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 25px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Ellipse 7 */
+
+
+position: absolute;
+width: 26px;
+height: 26px;
+left: 303px;
+top: 578px;
+
+background: #FFFFFF;
+
+
+/* 24 / arrows / chevron-top */
+
+
+position: absolute;
+left: 71.73%;
+right: 24.07%;
+top: 62.85%;
+bottom: 35.21%;
+
+
+
+/* image 11 */
+
+
+position: absolute;
+width: 173px;
+height: 47.72px;
+left: 223px;
+top: 67px;
+
+background: url(image.png);
+
+
+/* image 4 */
+
+
+position: absolute;
+width: 736px;
+height: 947px;
+left: -155px;
+top: -10px;
+
+background: url(image.png);
+
+
+/* image 2 */
+
+
+position: absolute;
+width: 731px;
+height: 1024px;
+left: -150px;
+top: -49px;
+
+
+
+/* image 3 */
+
+
+position: absolute;
+width: 158px;
+height: 42px;
+left: 45px;
+top: 78px;
+
+background: url(.png);
+
+
+/* image 5 */
+
+
+position: absolute;
+width: 109px;
+height: 45px;
+left: 260px;
+top: 78px;
+
+background: url(image.png);
+
+
+/* Rectangle 2 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 380px;
+height: 74px;
+left: 24px;
+top: 310px;
+
+background: rgba(25, 26, 28, 0.7);
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+
+
+/* 70cl - Original x1 - £35 */
+
+
+position: absolute;
+width: 111px;
+height: 39px;
+left: 160px;
+top: 329px;
+
+font-family: 'Sen';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 114px;
+height: 74px;
+left: 292px;
+top: 310px;
+
+background: #000000;
+border-radius: 30px;
+
+
+/* BUY NOW */
+
+
+position: absolute;
+width: 81px;
+height: 32px;
+left: 315px;
+top: 337px;
+
+font-family: 'Sen';
+font-style: normal;
+font-weight: 800;
+font-size: 15px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+
+
+/* Ellipse 2 */
+
+
+position: absolute;
+width: 17px;
+height: 17px;
+left: 95px;
+top: 339px;
+
+background: #FFFFFF;
+
+
+/* Ellipse 3 */
+
+
+position: absolute;
+width: 17px;
+height: 17px;
+left: 50px;
+top: 339px;
+
+background: #FFFFFF;
+
+
+/* 1 */
+
+
+position: absolute;
+width: 8px;
+height: 15px;
+left: 78px;
+top: 338px;
+
+font-family: 'Sen';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+
+
+/* _ */
+
+
+position: absolute;
+width: 11px;
+height: 12px;
+left: 53px;
+top: 338px;
+
+font-family: 'Sen';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+/* identical to box height */
+
+text-align: center;
+
+color: #000000;
+
+
+
+/* + */
+
+
+position: absolute;
+width: 7px;
+height: 8px;
+left: 100px;
+top: 342px;
+
+font-family: 'Sen';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 4 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 179px;
+height: 242px;
+left: 235px;
+top: 463px;
+
+background: rgba(0, 0, 0, 0.8);
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+
+
+/* XIX Vodka Is distilled multiple times until optimal purity is reached. Balanced with soft demineralised water and slowly filtered for an unparalleled finish and flavour. */
+
+
+position: absolute;
+width: 145px;
+height: 178px;
+left: 251px;
+top: 486px;
+
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 900;
+font-size: 14px;
+line-height: 18px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 5 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 204px;
+height: 313px;
+left: 11px;
+top: 500px;
+
+background: rgba(0, 0, 0, 0.8);
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+
+
+/* 100% NATURAL AND CLEAN The finest wheat is combined with soft water straight from the Scottish Highlands to produce a natural and clean flavour that redefines the heritage of UK spirits. Smooth and pure. The smooth edge that accompanies smooth taste. */
+
+
+position: absolute;
+width: 160px;
+height: 265px;
+left: 32px;
+top: 519px;
+
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 900;
+font-size: 15px;
+line-height: 19px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* XIX ORIGINAL VODKA */
+
+
+position: absolute;
+width: 363px;
+height: 38px;
+left: 33px;
+top: 180px;
+
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 800;
+font-size: 30px;
+line-height: 38px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Rectangle 6 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 175px;
+height: 54px;
+left: 237px;
+top: 726px;
+
+background: rgba(0, 0, 0, 0.8);
+border: 1px solid #000000;
+border-radius: 30px;
+
+
+/* BOTTLED IN THE UK */
+
+
+position: absolute;
+width: 238px;
+height: 25px;
+left: 205px;
+top: 745px;
+
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 900;
+font-size: 12px;
+line-height: 15px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Sidemen.com */
+
+
+position: absolute;
+width: 105px;
+height: 34px;
+left: 11px;
+top: 853px;
+
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 700;
+font-size: 9px;
+line-height: 11px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Side+ */
+
+
+position: absolute;
+width: 41px;
+height: 34px;
+left: 117px;
+top: 853px;
+
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 700;
+font-size: 9px;
+line-height: 11px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Sideman clothing */
+
+
+position: absolute;
+width: 138px;
+height: 34px;
+left: 150px;
+top: 853px;
+
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 700;
+font-size: 9px;
+line-height: 11px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Line 7 */
+
+
+position: absolute;
+width: 428px;
+height: 0px;
+left: 0px;
+top: 833px;
+
+border: 1px solid #FFFFFF;
+transform: rotate(0.4deg);
+
+
+/* Arcade Media */
+
+
+position: absolute;
+width: 138px;
+height: 34px;
+left: 255px;
+top: 853px;
+
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 700;
+font-size: 9px;
+line-height: 11px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Ellipse 8 */
+
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 30px;
+top: 26px;
+
+background: #FFFFFF;
+
+
+/* 24 / arrows / arrow-bold-left */
+
+
+position: absolute;
+left: 7.71%;
+right: 86.68%;
+top: 3.13%;
+bottom: 94.28%;
+
+
+
+/* FVO0LQzWYAEKIp0 1 */
+
+
+position: absolute;
+width: 1080px;
+height: 1080px;
+left: -330px;
+top: -64px;
+
+background: url(FVO0LQzWYAEKIp0.jpg);
+
+
+/* image 7 */
+
+
+position: absolute;
+width: 725px;
+height: 926px;
+left: -125px;
+top: 0px;
+
+
+
+/* image 5 */
+
+
+position: absolute;
+width: 70px;
+height: 26px;
+left: 175px;
+top: 51px;
+
+background: url(image.png);
+
+
+/* Rectangle 15 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 225px;
+height: 44px;
+left: 90px;
+top: 110px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+border-radius: 30px;
+
+
+/* Rectangle 17 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 95px;
+height: 29px;
+left: 211px;
+top: 117px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+border-radius: 30px;
+
+
+/* image 8 */
+
+
+position: absolute;
+width: 40px;
+height: 21px;
+left: 239px;
+top: 122px;
+
+background: url(image.png);
+
+
+/* image 9 */
+
+
+position: absolute;
+width: 95px;
+height: 29px;
+left: 103px;
+top: 117px;
+
+background: url(image.png);
+border-radius: 30px;
+
+
+/* EXPRESS CHECKOUT */
+
+
+position: absolute;
+width: 222px;
+height: 21px;
+left: 99px;
+top: 87px;
+
+font-family: 'Sen';
+font-style: normal;
+font-weight: 800;
+font-size: 10px;
+line-height: 12px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Line 1 */
+
+
+position: absolute;
+width: 198.02px;
+height: 0px;
+left: 0px;
+top: 197px;
+
+border: 1px solid #FFFFFF;
+transform: rotate(0.87deg);
+
+
+/* Line 2 */
+
+
+position: absolute;
+width: 204px;
+height: 0px;
+left: 224px;
+top: 199px;
+
+border: 1px solid #FFFFFF;
+transform: rotate(0.28deg);
+
+
+/* or */
+
+
+position: absolute;
+width: 17px;
+height: 10px;
+left: 202px;
+top: 194px;
+
+font-family: 'Sen';
+font-style: normal;
+font-weight: 800;
+font-size: 10px;
+line-height: 12px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Contact information */
+
+
+position: absolute;
+width: 194px;
+height: 18px;
+left: -7px;
+top: 233px;
+
+font-family: 'Sen';
+font-style: normal;
+font-weight: 800;
+font-size: 12px;
+line-height: 14px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 18 */
+
+
+position: absolute;
+width: 343px;
+height: 32px;
+left: 26px;
+top: 256px;
+
+background: rgba(0, 0, 0, 0.7);
+border-radius: 30px;
+
+
+/* Rectangle 19 */
+
+
+position: absolute;
+width: 235px;
+height: 298px;
+left: 193px;
+top: 327px;
+
+background: #000000;
+border-radius: 30px 0px 0px 30px;
+
+
+/* Shipping address */
+
+
+position: absolute;
+width: 110px;
+height: 19px;
+left: 41px;
+top: 320px;
+
+font-family: 'Palanquin Dark';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 22px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 20 */
+
+
+position: absolute;
+width: 147px;
+height: 33px;
+left: 27px;
+top: 350px;
+
+background: #000000;
+border-radius: 30px;
+
+
+/* Rectangle 22 */
+
+
+position: absolute;
+width: 147px;
+height: 33px;
+left: 27px;
+top: 392px;
+
+background: #000000;
+border-radius: 30px;
+
+
+/* Rectangle 23 */
+
+
+position: absolute;
+width: 147px;
+height: 33px;
+left: 27px;
+top: 431px;
+
+background: #000000;
+border-radius: 30px;
+
+
+/* Rectangle 26 */
+
+
+position: absolute;
+width: 147px;
+height: 33px;
+left: 27px;
+top: 508px;
+
+background: #000000;
+border-radius: 30px;
+
+
+/* Rectangle 31 */
+
+
+position: absolute;
+width: 147px;
+height: 33px;
+left: 27px;
+top: 547px;
+
+background: #000000;
+border-radius: 30px;
+
+
+/* Rectangle 32 */
+
+
+position: absolute;
+width: 147px;
+height: 33px;
+left: 27px;
+top: 586px;
+
+background: #000000;
+border-radius: 30px;
+
+
+/* Rectangle 33 */
+
+
+position: absolute;
+width: 147px;
+height: 33px;
+left: 27px;
+top: 625px;
+
+background: #000000;
+border-radius: 30px;
+
+
+/* Ellipse 6 */
+
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 149px;
+top: 638px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 27 */
+
+
+position: absolute;
+width: 147px;
+height: 33px;
+left: 27px;
+top: 469px;
+
+background: #000000;
+border-radius: 30px;
+
+
+/* Last name */
+
+
+position: absolute;
+width: 45px;
+height: 9px;
+left: 41px;
+top: 443px;
+
+font-family: 'Sen';
+font-style: normal;
+font-weight: 800;
+font-size: 8px;
+line-height: 10px;
+
+color: #9D9191;
+
+
+
+/* Address */
+
+
+position: absolute;
+width: 33px;
+height: 9px;
+left: 41px;
+top: 480px;
+
+font-family: 'Sen';
+font-style: normal;
+font-weight: 800;
+font-size: 8px;
+line-height: 10px;
+
+color: #9D9191;
+
+
+
+/* Country/region */
+
+
+position: absolute;
+width: 47px;
+height: 8px;
+left: 39px;
+top: 356px;
+
+font-family: 'Sen';
+font-style: normal;
+font-weight: 800;
+font-size: 6px;
+line-height: 7px;
+/* identical to box height */
+
+
+color: #9D9191;
+
+
+
+/* United Kingdom */
+
+
+position: absolute;
+width: 52px;
+height: 8px;
+left: 39px;
+top: 367px;
+
+font-family: 'Sen';
+font-style: normal;
+font-weight: 800;
+font-size: 6px;
+line-height: 7px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 21 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: 147px;
+top: 361px;
+
+background: rgba(0, 0, 0, 0.5);
+border: 1px solid #FFFFFF;
+border-radius: 30px;
+
+
+/* 24 / arrows / chevron-bottom */
+
+
+position: absolute;
+left: 35.28%;
+right: 63.32%;
+top: 39.42%;
+bottom: 59.94%;
+
+
+
+/* Email */
+
+
+position: absolute;
+width: 108px;
+height: 16px;
+left: 41px;
+top: 264px;
+
+font-family: 'Sen';
+font-style: normal;
+font-weight: 800;
+font-size: 10px;
+line-height: 12px;
+
+color: #9D9191;
+
+
+
+/* First name */
+
+
+position: absolute;
+width: 44px;
+height: 9px;
+left: 41px;
+top: 403px;
+
+font-family: 'Sen';
+font-style: normal;
+font-weight: 800;
+font-size: 8px;
+line-height: 10px;
+
+color: #9D9191;
+
+
+
+/* Rectangle 28 */
+
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 214px;
+top: 356px;
+
+background: #FFFFFF;
+border-radius: 15px;
+
+
+/* image 10 */
+
+
+position: absolute;
+width: 40px;
+height: 35px;
+left: 218px;
+top: 362px;
+
+background: url(image.png);
+
+
+/* Ellipse 4 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 13px;
+height: 13px;
+left: 252px;
+top: 354px;
+
+background: #FC0000;
+border: 1px solid #FFFFFF;
+
+
+/* 1 */
+
+
+position: absolute;
+width: 3px;
+height: 3px;
+left: 257px;
+top: 357px;
+
+font-family: 'Sen';
+font-style: normal;
+font-weight: 700;
+font-size: 5px;
+line-height: 6px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Line 3 */
+
+
+position: absolute;
+width: 216px;
+height: 0px;
+left: 203px;
+top: 436.95px;
+
+border: 1px solid #FFFFFF;
+transform: rotate(-0.25deg);
+
+
+/* Line 4 */
+
+
+position: absolute;
+width: 216px;
+height: 0px;
+left: 203px;
+top: 502.95px;
+
+border: 1px solid #FFFFFF;
+transform: rotate(-0.25deg);
+
+
+/* Line 5 */
+
+
+position: absolute;
+width: 216px;
+height: 0px;
+left: 203px;
+top: 570.95px;
+
+border: 1px solid #FFFFFF;
+transform: rotate(-0.25deg);
+
+
+/* XIX vodka original */
+
+
+position: absolute;
+width: 77px;
+height: 26px;
+left: 272px;
+top: 364px;
+
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 800;
+font-size: 10px;
+line-height: 13px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* £35.00 */
+
+
+position: absolute;
+width: 56px;
+height: 34px;
+left: 363px;
+top: 363px;
+
+font-family: 'Sen';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 18px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* £35.00 */
+
+
+position: absolute;
+width: 41px;
+height: 10px;
+left: 373px;
+top: 521px;
+
+font-family: 'Sen';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 12px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* £35.00 */
+
+
+position: absolute;
+width: 41px;
+height: 10px;
+left: 373px;
+top: 586px;
+
+font-family: 'Sen';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 12px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 29 */
+
+
+position: absolute;
+width: 133px;
+height: 29px;
+left: 212px;
+top: 455px;
+
+background: #FFFFFF;
+border-radius: 30px;
+
+
+/* Rectangle 30 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 60px;
+height: 29px;
+left: 349px;
+top: 455px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+border-radius: 30px;
+
+
+/* Discount code */
+
+
+position: absolute;
+width: 110px;
+height: 13px;
+left: 219px;
+top: 463px;
+
+font-family: 'Sen';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 12px;
+text-align: center;
+
+color: #B2A9A9;
+
+
+
+/* Apply */
+
+
+position: absolute;
+width: 43px;
+height: 13px;
+left: 358px;
+top: 463px;
+
+font-family: 'Sen';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 12px;
+text-align: center;
+
+color: #B2A9A9;
+
+
+
+/* Subtotal */
+
+
+position: absolute;
+width: 93px;
+height: 14px;
+left: 211px;
+top: 521px;
+
+font-family: 'Sen';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 12px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Total */
+
+
+position: absolute;
+width: 93px;
+height: 14px;
+left: 204px;
+top: 587px;
+
+font-family: 'Sen';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 12px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Shipping */
+
+
+position: absolute;
+width: 44px;
+height: 14px;
+left: 237px;
+top: 543px;
+
+font-family: 'Sen';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 12px;
+
+color: #FFFFFF;
+
+
+
+/* Calculated at the next step */
+
+
+position: absolute;
+width: 98px;
+height: 8px;
+left: 324px;
+top: 547px;
+
+font-family: 'Sen';
+font-style: normal;
+font-weight: 700;
+font-size: 5px;
+line-height: 6px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Ellipse 5 */
+
+
+position: absolute;
+width: 6px;
+height: 6px;
+left: 284px;
+top: 547px;
+
+background: #FFFFFF;
+
+
+/* ? */
+
+
+position: absolute;
+width: 2px;
+height: 4px;
+left: 286px;
+top: 548px;
+
+font-family: 'Sen';
+font-style: normal;
+font-weight: 700;
+font-size: 3px;
+line-height: 4px;
+/* identical to box height */
+
+
+color: #000000;
+
+
+
+/* ? */
+
+
+position: absolute;
+width: 6px;
+height: 7px;
+left: 150px;
+top: 640px;
+
+font-family: 'Sen';
+font-style: normal;
+font-weight: 700;
+font-size: 3px;
+line-height: 4px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Apartment,suite,etc.(optional) */
+
+
+position: absolute;
+width: 127px;
+height: 13px;
+left: 41px;
+top: 519px;
+
+font-family: 'Sen';
+font-style: normal;
+font-weight: 800;
+font-size: 8px;
+line-height: 10px;
+
+color: #9D9191;
+
+
+
+/* City */
+
+
+position: absolute;
+width: 110px;
+height: 9px;
+left: 41px;
+top: 558px;
+
+font-family: 'Sen';
+font-style: normal;
+font-weight: 800;
+font-size: 8px;
+line-height: 10px;
+
+color: #9D9191;
+
+
+
+/* Postcode */
+
+
+position: absolute;
+width: 63px;
+height: 13px;
+left: 40px;
+top: 597px;
+
+font-family: 'Sen';
+font-style: normal;
+font-weight: 800;
+font-size: 8px;
+line-height: 10px;
+
+color: #897F7F;
+
+
+
+/* Phone */
+
+
+position: absolute;
+width: 56px;
+height: 12px;
+left: 40px;
+top: 636px;
+
+font-family: 'Sen';
+font-style: normal;
+font-weight: 800;
+font-size: 8px;
+line-height: 10px;
+
+color: #897F7F;
+
+
+
+/* Line 6 */
+
+
+position: absolute;
+width: 458px;
+height: 0px;
+left: -24px;
+top: 788px;
+
+border: 1px solid #FFFFFF;
+
+
+/* Rectangle 40 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 276px;
+height: 59px;
+left: 76px;
+top: 691px;
+
+background: #D9D9D9;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+
+
+/* Continue to Shipping */
+
+
+position: absolute;
+width: 259px;
+height: 23px;
+left: 84px;
+top: 707px;
+
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 25px;
+text-align: center;
+
+color: #9D9191;
+
+
+
+/* Refund Policy */
+
+
+position: absolute;
+width: 105px;
+height: 13px;
+left: 14px;
+top: 804px;
+
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 800;
+font-size: 8px;
+line-height: 10px;
+
+color: #000000;
+
+
+
+/* Privacy Policy */
+
+
+position: absolute;
+width: 105px;
+height: 13px;
+left: 219px;
+top: 805px;
+
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 800;
+font-size: 8px;
+line-height: 10px;
+
+color: #000000;
+
+
+
+/* Terms of Service */
+
+
+position: absolute;
+width: 105px;
+height: 13px;
+left: 314px;
+top: 805px;
+
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 800;
+font-size: 8px;
+line-height: 10px;
+
+color: #000000;
+
+
+
+/* Shopping Policy */
+
+
+position: absolute;
+width: 112px;
+height: 12px;
+left: 108px;
+top: 804px;
+
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 800;
+font-size: 8px;
+line-height: 10px;
+
+color: #000000;
+
+
+
+/* image 12 */
+
+
+position: absolute;
+width: 544px;
+height: 991px;
+left: -85px;
+top: -7px;
+
+
+
+/* Ellipse 8 */
+
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 28px;
+top: 27px;
+
+background: #FFFFFF;
+
+
+/* 24 / arrows / arrow-bold-left */
+
+
+position: absolute;
+left: 7.24%;
+right: 87.15%;
+top: 3.24%;
+bottom: 94.17%;
+
+
+
+/* image 6 */
+
+
+position: absolute;
+width: 114px;
+height: 25px;
+left: 292px;
+top: 45px;
+
+background: url(.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+
+/* image 13 */
+
+
+position: absolute;
+width: 1024px;
+height: 926px;
